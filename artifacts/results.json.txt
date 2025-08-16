@@ -1,0 +1,4 @@
+{
+  "TextCNN_test": {"loss": 0.65, "acc": 0.89, "f1m": 0.88},
+  "MLP_test": {"loss": 0.90, "acc": 0.83, "f1m": 0.82}
+}
